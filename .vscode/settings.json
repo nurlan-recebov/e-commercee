@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "**/Thumbs.db": false
+  },
+  "files.refactoring.autoSave": true,
+  "files.autoSave": "afterDelay"
+}

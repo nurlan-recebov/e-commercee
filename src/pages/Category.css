@@ -1,0 +1,78 @@
+.Card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+
+  height: 400px;
+}
+.Card img {
+  position: absolute;
+  transition: opacity 600ms ease 0s;
+}
+.img-back {
+  opacity: 0;
+}
+.Card:hover .img-back,
+.Card:hover .hover-items,.Card:hover .icon-items {
+  opacity: 1;
+
+}
+
+.hover-item {
+  cursor: pointer;
+
+  border-color: #191919;
+  background-color: #191919;
+  color: white;
+  width: 100%;
+  height: 40px;
+  opacity: 1;
+  transition: opacity 600ms ease 0s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hover-item:hover {
+  background: #d9121f;
+  
+}
+.hover-items {
+  position: absolute;
+  display: flex;
+  align-items: flex-end;
+  width: 15rem;
+  z-index: 2;
+  height: 300px;
+  opacity: 0;
+  transition: opacity 600ms ease 0s;
+}
+
+.icon-items {
+  position: absolute;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  height: 300px;
+  opacity: 1;
+  transition: opacity 600ms ease 0s;
+  flex-direction: column;
+  width: 13rem;
+  gap: 5px;
+  opacity: 0;
+}
+.icon-item{
+    width: 30px;
+    height: 30px;
+    background-color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    z-index: 2;
+    cursor: pointer;
+}
+.icon-item:hover{
+    color: #d9121f;
+   
+}

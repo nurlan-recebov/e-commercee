@@ -1,0 +1,51 @@
+{
+  "shops": [
+    {
+      "id": 1,
+      "name": "Baku",
+      "link": "https://nouthemes.net/html/yobazar/img/products/1.jpg",
+      "hover": "https://nouthemes.net/html/yobazar/img/products/12.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Paris",
+      "link": "https://nouthemes.net/html/yobazar/img/products/49.jpg",
+      "hover": "https://nouthemes.net/html/yobazar/img/products/23.jpg"
+    },
+    {
+      "id": 3,
+      "name": "New York",
+      "link": "https://nouthemes.net/html/yobazar/img/products/3.jpg",
+      "hover": "https://nouthemes.net/html/yobazar/img/products/3_1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "New York",
+      "link": "https://nouthemes.net/html/yobazar/img/products/4.jpg",
+      "hover": "https://nouthemes.net/html/yobazar/img/products/24.jpg"
+    },
+    {
+      "id": 5,
+      "name": "New York",
+      "link": "https://nouthemes.net/html/yobazar/img/products/5.jpg",
+      "hover": "https://nouthemes.net/html/yobazar/img/products/44.jpg"
+    },
+    {
+      "id": 6,
+      "name": "New York",
+      "link": "https://nouthemes.net/html/yobazar/img/products/7.jpg",
+      "hover": "https://nouthemes.net/html/yobazar/img/products/16.jpg"
+    },
+    {
+      "id": 7,
+      "name": "New York",
+      "link": "https://nouthemes.net/html/yobazar/img/products/27.jpg",
+      "hover": "https://nouthemes.net/html/yobazar/img/products/32.jpg"
+    },
+    {
+      "id": 8,
+      "name": "New York",
+      "link": "https://nouthemes.net/html/yobazar/img/products/2.jpg",
+      "hover": "https://nouthemes.net/html/yobazar/img/products/40.jpg"
+    }]}
+    
